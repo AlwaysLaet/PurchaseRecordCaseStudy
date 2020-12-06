@@ -15,7 +15,8 @@ The data tables are set up in a way where each question below can be answered, b
 
   - Which years are represented in these data?
   - How many unique customers are represented in these data?
-  - Which product was the most expensive during the earliest quarter represented? Which produce was the most expensive during the latest quarter represented?
+  - How many unique products are represented in these data?
+  - Which product was the most expensive during the earliest quarter represented? Which product was the most expensive during the latest quarter represented?
 
 #### Wrangling
 
